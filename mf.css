@@ -1,0 +1,96 @@
+body {
+	color: #23297A;
+	font-family: sans-serif;
+}
+
+.middle {
+	padding-bottom: 90px;
+}
+
+.middle h3 {
+	
+}
+
+.middle li {
+	margin: 10px;
+	color: darkorange;
+}
+
+p {
+	color: darkorange;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #23297A;
+	font-family: sans-serif;
+	padding-bottom: 10px;
+}
+
+h3 {
+	color: #B20000;
+	font-family: sans-serif;
+	padding: 10px;
+	display: inline;
+}
+
+.nav {
+	float: left;
+	width: 100%;
+	background-color: green;
+}
+
+.nav li { 
+	display: inline;
+	font-family: sans-serif;
+	color: white;
+	padding: 20px;
+	line-height: 30px;
+}
+
+.nav a {
+	text-decoration: none;
+	color: white;
+}
+
+.nav a:hover {
+	text-decoration: underline;
+}
+
+.footer {
+	background-color: yellow;
+}
+
+.footer p {
+	text-align: center;
+	line-height: 30px;
+	color: #23297A;
+}
+ 
+.contents {
+	color: #23297A;
+	padding-left: 15px;
+	padding-bottom: 20px;
+}
+
+.subtitle {
+	padding-top: 80px;
+	padding-left: 30px;
+}
+
+.middle a {
+	text-decoration: none;
+	color: #23297A;
+}
+
+.middle a:hover {
+	color: green;
+}
+
+img {
+	#height: 400px;
+	#width: auto;
+	#max-width: 100%;
+	width: 100%;
+	height: auto;
+}
